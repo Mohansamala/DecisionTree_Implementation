@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 25 03:05:02 2017
 
-@author: venkatesh
+
 """
 
 class Tree:
